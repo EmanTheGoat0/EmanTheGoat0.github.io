@@ -1,4 +1,4 @@
-##  Hi, I am Emmanuel Falola
+###  Hi, I am Emmanuel Falola
 
 I'm a second-year Computer Science student at the University of Kent, I love combining problem-solving with a customer focused approach to design and data.
 
@@ -11,6 +11,6 @@ I'm a second-year Computer Science student at the University of Kent, I love com
 *   **EA Software Engineering Virtual Experience:** Completed in July 2025, focusing on optimizing codebases and structuring C++ class diagrams.
 *   **Customer-Facing Roles:** Built strong communication and problem-solving skills through roles in hospitality, retail, and fast-paced operations.
 
-###  Technical Arsenal
+###  Technical Skills
 *   **Languages:** Java, JavaScript, C++, HTML/CSS
 *   **Concepts:** Data Analytics, UI Design Principles, Object-Oriented Programming
