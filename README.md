@@ -1,6 +1,6 @@
 ##  Hi there, I'm Emmanuel Falola
 
-I'm a second-year Computer Science student at the University of Kent, I love combining problem-solving with a custmer focused approach to design and data.
+I'm a second-year Computer Science student at the University of Kent, I love combining problem-solving with a customer focused approach to design and data.
 
 ###  What I'm Exploring
 *   Full-Stack Web Development: Building responsive, interactive web applications using HTML, CSS layout grids, and JavaScript 
