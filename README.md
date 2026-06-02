@@ -1,4 +1,4 @@
-##  Hi there, I'm Emmanuel Falola
+##  Hi, I am Emmanuel Falola
 
 I'm a second-year Computer Science student at the University of Kent, I love combining problem-solving with a customer focused approach to design and data.
 
